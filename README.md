@@ -1,1 +1,1 @@
-# Coursera-Ruby-Specialization-course4-coursera-test
+# course4-coursera-test
